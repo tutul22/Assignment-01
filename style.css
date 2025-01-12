@@ -131,11 +131,11 @@
     margin-left: 250px;  
     border-radius: 15px; 
 }
-.dr-div{
+.dr-p{
+    background-image: url(quote-bg.png);
+    background-repeat: no-repeat;
 }
-.dr-img{
-    display:inline-flex;
-}
+
 
 .dr-h3{
     font-size: 22px;
